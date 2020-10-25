@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context="com.example.ctadmin.mypolytech.Notificationshow">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity="center"
+        android:background="@drawable/curveshape">
+
+
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:src="@drawable/ic_keyboard_arrow_left_black_24dp"/>
+        <ImageView
+            android:id="@+id/logout"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_margin="15dp"
+            android:src="@drawable/ic_action_name"
+            android:background="@color/background" />
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/kkm" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/topic"
+            android:layout_width="wrap_content"
+            android:text="dasdasdasdasdasd"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_margin="30dp"
+            android:textColor="#000"
+            android:text="***** Result Published **** DIPLOMA - November 2019 **** KGCE - April 2019 **** FDGT - April 2019 ***** FCI - April 2019 *******PGDCA - January 2019 ****** PGDeG - December2018
+
+https://tekerala.org/tblresult/res_rvdip_1119.pdf"
+            android:gravity="center"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

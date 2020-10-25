@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "915018067911",
+    "firebase_url": "https://mypolytech-c5588.firebaseio.com",
+    "project_id": "mypolytech-c5588",
+    "storage_bucket": "mypolytech-c5588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915018067911:android:52f30ed89a026358a5b3e2",
+        "android_client_info": {
+          "package_name": "com.example.ctadmin.mypolytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915018067911-bffkgdo3430qkttmnr6ln8f2ij3svcja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ctadmin.mypolytech",
+            "certificate_hash": "bb901d179382fa93028827f3446793e9408ceea0"
+          }
+        },
+        {
+          "client_id": "915018067911-85mmrhviv2qtum2so0ocis4487h9gam5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQXFYq_sklJvRsEEQ1q3Q75AnULaT8cyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915018067911-85mmrhviv2qtum2so0ocis4487h9gam5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
