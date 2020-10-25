@@ -7,6 +7,6 @@ App Preview
 
 ![alt text](https://github.com/iamjithinjohnson/College-App/blob/master/Screenshot_20200703-130620.png)
 
-![x]  PHP
-![x]  WampServer
-![x]  java
+- [x]  PHP
+- [x]  WampServer
+- [x]  java
